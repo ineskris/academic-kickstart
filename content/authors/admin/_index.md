@@ -4,13 +4,13 @@ name: Ines Krissaane
 
 # Username (this should match the folder name)
 authors:
-- Ines Krissaane
+- Inès Krissaane
 
 # Is this the primary user of the site?
 superuser: true
-title : Ines Krissaane
+title : Inès Krissaane
 # Role/position
-role: PhD Student in Bayesian Statistics and Deep Learning
+role: PhD Student in Bayesian Statistics 
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.nottingham.ac.uk/mathematics/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: bla
+bio: 
 
 interests:
 - Artificial Intelligence
@@ -40,17 +40,17 @@ education:
     year: 2016
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "krissaane.ines@gmail.com".
+  link: 'mailto:ines.krissaane@nottingham.ac.uk'  # For a direct email link, use "krissaane.ines@gmail.com".
 - icon: github
   icon_pack: fab
   link: https://github.com/ineskris
-- icon: google-scholar
+- icon: google-scholars
   icon_pack: ai
   link: "https://scholar.google.com/citations?user=b1hMjjMAAAAJ&hl=en"
 - icon: twitter
@@ -75,8 +75,13 @@ email: "ikrissaane1@sheffield.ac.uk"
 user_groups:
 #- '[]'
 ---
- 
-My research interests lie in **uncertainty quantification** for mathematical and computational models. I'm interested in **Bayesian statistics** and **Variational Inference** methods for handling model misspecification particularly in the field of biology and medicine. I am also working on deep learning methods for health data with a particular interest in genetics.
+
+I am interested in machine learning, with a particular focus on computational statistics, deep learning, and uncertainty quantification in the field of biology, genetics and medicine. 
+
+
+My doctoral research aim to understand and develop robust statistical inferential methods for handling model misspecification particularly for cardiac electrophysiology modelling. 
+
+
 
 Currently, I am pursuing my PhD at the University of Nottingham affiliated with Microsoft Research Cambridge. My PhD supervisors are <a href="https://rich-d-wilkinson.github.io/aboutme.html">Richard Wilkinson</a> ,  <a href="https://www.microsoft.com/en-us/research/people/edmeeds/">Ted Meeds </a> , <a href="http://www.jeremy-oakley.staff.shef.ac.uk/"> Jeremy Oakley</a>  and <a href="https://www.nottingham.ac.uk/mathematics/people/gary.mirams/">Gary Mirams</a> .
 

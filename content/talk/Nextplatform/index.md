@@ -26,9 +26,7 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: See
+- name: See
   url: https://www.nextplatform.com/2020/08/13/next-platform-tv-for-august-13-2020/
 url_code: ""
 url_slides: ""
